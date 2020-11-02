@@ -50,7 +50,7 @@
     </table>
 
 <h3>Bonjour <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> Ici c'est Paris!</h3>
-<p>Currently, the weather is: <b> 19°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>07:39 AM</b> and sets at <b>05:28 PM</b>.</p>
+<p>Currently, the weather is: <b> 19°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>07:39</b> and sets at <b>17:28</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Marouen2110" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marouen-slaimia" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
