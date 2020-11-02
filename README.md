@@ -30,7 +30,7 @@
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
+<h3>My projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -46,9 +46,11 @@
     </tr>
 	  <tr>
     </tr>
+    </tbody>
+    </table>
 
 <h3>Bonjour <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> Ici c'est Paris!</h3>
-<p>Currently, the weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> and sets at <b></b>.</p>
+<p>Currently, the weather is: <b> 19°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>07:39 AM</b> and sets at <b>05:28 PM</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Marouen2110" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marouen-slaimia" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>

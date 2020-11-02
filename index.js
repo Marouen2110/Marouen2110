@@ -1,6 +1,9 @@
 // index.js
+require('dotenv').config();
+const fetch = require('node-fetch');
 const Mustache = require('mustache');
 const fs = require('fs');
+
 const MUSTACHE_MAIN_DIR = './main.mustache';
 /**
  * DATA is the object that contains all
@@ -53,4 +56,16 @@ function generateReadMe() {
     fs.writeFileSync('README.md', output);
   });
 }
-generateReadMe();
+
+async function action() {
+  /**
+   * Fetch Weather
+   */
+  await setWeatherInformation();
+  /**
+   * Generate README
+   */
+  await generateReadMe();
+}
+
+action();
