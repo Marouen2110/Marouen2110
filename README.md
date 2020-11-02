@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to meet you.</h1>
 
-
 <p>Welcome to my page! </br> I'm Marouen, Fullstack developer and DevOps enthusiast from <img src="https://www.flaticon.com/svg/static/icons/svg/299/299636.svg" width="13"/> <b>Sidi Bouzid, Tunisia</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b>. </p>
 <h3>Things I code with</h3>
 <p>
@@ -30,7 +29,7 @@
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
+<h3>My projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -46,13 +45,15 @@
     </tr>
 	  <tr>
     </tr>
-
+<tbody>
+</table>
 <h3>Bonjour <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> Ici c'est Paris!</h3>
 <p>Currently, the weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> and sets at <b></b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Marouen2110" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marouen-slaimia" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
-------------
+---
+
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here! Thanks to Thomas Guibert</a></p>
 <p align="center"><img src="https://github.com/Marouen2110/Marouen2110/workflows/README%20build/badge.svg" /></p>
