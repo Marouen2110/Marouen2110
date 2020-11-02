@@ -22,10 +22,10 @@ let DATA = {
 
 async function setWeatherInformation() {
   await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?q=stockholm&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+    `https://api.openweathermap.org/data/2.5/weather?q=paris&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
   )
-    .then((r) => r.json())
-    .then((r) => {
+    .then(r => r.json())
+    .then(r => {
       DATA.city_temperature = Math.round(r.main.temp);
       DATA.city_weather = r.weather[0].description;
       DATA.city_weather_icon = r.weather[0].icon;
