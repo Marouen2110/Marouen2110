@@ -1,0 +1,31 @@
+{
+  "name": "marouen2110",
+  "version": "1.0.0",
+  "description": "Dynamic README.md for GitHub Account, using Actions, Javascript and Mustache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marouen2110/Marouen2110.git"
+  },
+  "keywords": [
+    "Dynamic",
+    "README",
+    "GITHUB",
+    "ACCOUNT"
+  ],
+  "author": "Marouen SLAIMIA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marouen2110/Marouen2110/issues"
+  },
+  "homepage": "https://github.com/Marouen2110/Marouen2110#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.4.1"
+  }
+}
