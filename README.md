@@ -1,6 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to meet you.</h1>
 
-
 <p>Welcome to my page! </br> I'm Marouen, Fullstack developer and DevOps enthusiast from <img src="https://www.flaticon.com/svg/static/icons/svg/299/299636.svg" width="13"/> <b>Sidi Bouzid, Tunisia</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b>. </p>
 <h3>Things I code with</h3>
 <p>
@@ -43,18 +42,24 @@
   </thead>
   <tbody>
     <tr>
+    	    <td><a href="https://github.com/Marouen2110/Worth-It"><b>Worth-It Project</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Marouen2110/Worth-It?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Marouen2110/Worth-It?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Marouen2110/Worth-It?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Marouen2110/Worth-It?style=flat-square&labelColor=343b41"/>
+      </td>
     </tr>
-	  <tr>
-    </tr>
-    </tbody>
-    </table>
+
+</tbody>
+  </table>
 
 <h3>Bonjour <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> Ici c'est Paris!</h3>
 <p>Currently, the weather is: <b> 12°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>07:41</b> and sets at <b>17:27</b>.</p>
 <h3>Where to find me</h3>
-<p><a href="https://github.com/Marouen2110" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marouen-slaimia" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://gitlab.com/Marouen_Slaimia" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%2300B1.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a> 
+<p><a href="https://www.linkedin.com/in/marouen-slaimia" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Marouen2110" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://gitlab.com/Marouen_Slaimia" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%230077B5.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a> 
 </p>
 
-------------
+---
+
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 3 November, 16:54 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here! Thanks to Thomas Guibert</a></p>
 <p align="center"><img src="https://github.com/Marouen2110/Marouen2110/workflows/README%20build/badge.svg" /></p>
