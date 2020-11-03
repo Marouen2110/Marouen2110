@@ -55,7 +55,7 @@
 <h3>Bonjour <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> Ici c'est Paris!</h3>
 <p>Currently, the weather is: <b> 12°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>07:41</b> and sets at <b>17:27</b>.</p>
 <h3>Where to find me</h3>
-<p><a href="https://github.com/Marouen2110" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marouen-slaimia" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p><a href="https://github.com/Marouen2110" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marouen-slaimia" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://gitlab.com/Marouen_Slaimia" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%2300B1.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a> 
 </p>
 
 ---
