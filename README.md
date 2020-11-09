@@ -23,6 +23,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="gitlab CI" src="https://img.shields.io/badge/-Gitlab%20CI-176a20?style=flat-square&logo=gitlab&logoColor=white" />
+  <img alt="Travis CI" src="https://img.shields.io/badge/-Travis%20CI-baded4?style=flat-square&logo=travis&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS%20-f0f4af?style=flat-square&logo=amazon%20aws&logoColor=black" />
   <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-1b4fbe?style=flat-square&logo=digitalocean&logoColor=white" />
@@ -51,16 +52,22 @@
       </td>
     </tr>
 	  <tr>
+    <td><a href="https://github.com/Marouen2110/multi-k8s"><b>Multi K8s Cluster</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Marouen2110/multi-k8s?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Marouen2110/multi-k8s?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Marouen2110/multi-k8s?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Marouen2110/multi-k8s?style=flat-square&labelColor=343b41"/>
+      </td>
     </tr>
     </tbody>
     </table>
 
 <h3>Bonjour <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> Ici c'est Paris!</h3>
-<p>Currently, the weather is: <b> 16°C, <i>clear sky</i></b></br>Today, the sun rises at <b>07:50</b> and sets at <b>17:18</b>.</p>
+<p>Currently, the weather is: <b> 18°C, <i>few clouds</i></b></br>Today, the sun rises at <b>07:50</b> and sets at <b>17:18</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://www.linkedin.com/in/marouen-slaimia" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Marouen2110" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://gitlab.com/Marouen_Slaimia" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%230077B5.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a> 
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 9 November, 13:05 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here! Thanks to Thomas Guibert</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 9 November, 14:32 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here! Thanks to Thomas Guibert</a></p>
 <p align="center"><img src="https://github.com/Marouen2110/Marouen2110/workflows/README%20build/badge.svg" /></p>
