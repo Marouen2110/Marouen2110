@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Marouen, Fullstack developer and DevOps enthusiast from <img src="https://www.flaticon.com/svg/static/icons/svg/299/299636.svg" width="13"/> <b>Sidi Bouzid, Tunisia</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b>. </p>
-<h3>Things I code with</h3>
+<h3>Tools I code with</h3>
 <p>
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring-5ad336?style=flat-square&logo=spring&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-7ba9e2?style=flat-square&logo=java&logoColor=white" /> 
