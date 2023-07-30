@@ -76,11 +76,11 @@
     </table>
 
 <h3>Bonjour <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> Ici c'est Paris!</h3>
-<p>Currently, the weather is: <b> 22°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:20</b> and sets at <b>21:33</b>.</p>
+<p>Currently, the weather is: <b> 20°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:20</b> and sets at <b>21:33</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://www.linkedin.com/in/marouen-slaimia" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Marouen2110" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://gitlab.com/Marouen_Slaimia" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%230077B5.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a> 
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 30 July, 20:08 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here! Thanks to Thomas Guibert</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 30 July, 23:06 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here! Thanks to Thomas Guibert</a></p>
 <p align="center"><img src="https://github.com/Marouen2110/Marouen2110/workflows/README%20build/badge.svg" /></p>
